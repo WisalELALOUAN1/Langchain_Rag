@@ -1,0 +1,40 @@
+Based on the provided example, I've analyzed the typical structure of an "Assurance de l'école" document, which appears to be an attestation of insurance coverage. Here's an outline of the typical fields found in this document type:
+
+I. Identification of the Insurer
+
+* Name and address of the insurance company (Mutuelle Centrale Marocaine d'Assurances in the example)
+
+II. Identification of the Assured
+
+* Name and surname of the assured (El Alouan Wisal in the example)
+* National ID number (CIN) or other identification number
+* Date of birth (not explicitly mentioned in the example, but typically included)
+
+III. Insurance Policy Information
+
+* Policy type (Responsabilité Civile Etudiants in the example)
+* Policy number
+* Effective date of the policy
+* Expiration date of the policy
+* Renewal or tacit renewal information (as mentioned in the example)
+
+IV. School Information
+
+* Name and address of the school (École Nationale Supérieure d'Informatique et d'Analyse des Systèmes in the example)
+
+V. Attestation Details
+
+* Statement of insurance coverage, including the period of validity (01/09/2023 to 31/08/2024 in the example)
+* Information on the purpose of the attestation (e.g., to serve as proof of insurance coverage)
+
+VI. Additional Information
+
+* Any additional clauses or conditions related to the insurance policy
+* Information on any suspensions or terminations of the policy
+
+VII. Signature and Date
+
+* Signature of the authorized representative of the insurance company
+* Date of issuance of the attestation
+
+Please note that the specific fields and information may vary depending on the insurance company, the type of insurance, and the country or region. The above outline is a general representation of the typical structure of an "Assurance de l'école" document.
