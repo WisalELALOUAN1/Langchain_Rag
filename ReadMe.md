@@ -49,5 +49,5 @@ BackendRAG is an advanced backend server application that leverages the power of
 
 * Validation Report Generation: With the determined category, an enriched request is sent to the Llama model to generate a validation report.
 
-* Presentation and Storage of Results\*: The validation report is then presented to the user via a Streamlit interface
+* Presentation and Storage of Results: The validation report is then presented to the user via a Streamlit interface
 
