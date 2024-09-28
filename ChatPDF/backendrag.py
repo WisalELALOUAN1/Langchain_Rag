@@ -31,7 +31,7 @@ splitter = RecursiveCharacterTextSplitter( chunk_size=800,
 
 
 embedding_function = HuggingFaceInferenceAPIEmbeddings(
-    api_key='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',
+    api_key='',
     model_name="sentence-transformers/all-MiniLM-l6-v2"
 )
 
@@ -52,7 +52,7 @@ os.makedirs(reference_folder, exist_ok=True)
 embedding_model = SentenceTransformer('all-MiniLM-L6-v2')
 
 app = Flask(__name__)
-os.environ['GROQ_API_KEY'] = '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'
+os.environ['GROQ_API_KEY'] = ''
 groq_api_key = os.environ['GROQ_API_KEY']
 chat = ChatGroq(temperature=0, groq_api_key=groq_api_key, model_name="llama3-8b-8192")
 
